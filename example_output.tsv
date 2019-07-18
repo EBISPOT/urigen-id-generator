@@ -1,0 +1,25 @@
+ID	Label	Type (is-a)
+ID	A rdfs:label	C %
+efo:EFO_0009966	assay by long read sequencer	assay by sequencer
+efo:EFO_0009967	ligation-mediated chromosome conformation capture assay	chromosome conformation capture assay
+efo:EFO_0009968	ligation-free chromosome conformation capture assay	chromosome conformation capture assay
+efo:EFO_0009969	2-stage Repli-seq	Repli-Seq
+efo:EFO_0009970	multi-stage Repli-seq	Repli-Seq
+efo:EFO_0009971	TSA-seq	assay
+efo:EFO_0009972	NAD-seq	assay
+efo:EFO_0009973	CUT&RUN	assay
+efo:EFO_0009974	in situ HiC	Hi-C
+efo:EFO_0009975	dilution HiC	Hi-C
+efo:EFO_0009976	DNase Hi-C	Hi-C
+efo:EFO_0009977	sci-Hi-C	Hi-C
+efo:EFO_0009978	sn-Hi-C	Hi-C
+efo:EFO_0009979	single cell Hi-C	Hi-C
+efo:EFO_0009980	MC-Hi-C	Hi-C
+efo:EFO_0009981	PLAC-seq	IP-seq
+efo:EFO_0009982	Trac-Loop	ligation-free chromosome conformation capture assay
+efo:EFO_0009983	MC-4C	4C
+efo:EFO_0009984	SPRITE	ligation-free chromosome conformation capture assay
+efo:EFO_0009985	DNA SPRITE	SPRITE
+efo:EFO_0009986	RNA-DNA SPRITE	SPRITE
+efo:EFO_0009987	GAM	ligation-free chromosome conformation capture assay
+efo:EFO_0009988	MARGI	assay

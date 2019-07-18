@@ -1,0 +1,25 @@
+ID|Label|Type (is-a)
+ID|A rdfs:label|C %
+|assay by long read sequencer|assay by sequencer
+|ligation-mediated chromosome conformation capture assay|chromosome conformation capture assay
+|ligation-free chromosome conformation capture assay|chromosome conformation capture assay
+|2-stage Repli-seq|Repli-Seq
+|multi-stage Repli-seq|Repli-Seq
+|TSA-seq|assay
+|NAD-seq|assay
+|CUT&RUN|assay
+|in situ HiC|Hi-C
+|dilution HiC|Hi-C
+|DNase Hi-C|Hi-C
+|sci-Hi-C|Hi-C
+|sn-Hi-C|Hi-C
+|single cell Hi-C|Hi-C
+|MC-Hi-C|Hi-C
+|PLAC-seq|IP-seq
+|Trac-Loop|ligation-free chromosome conformation capture assay
+|MC-4C|4C
+|SPRITE|ligation-free chromosome conformation capture assay
+|DNA SPRITE|SPRITE
+|RNA-DNA SPRITE|SPRITE
+|GAM|ligation-free chromosome conformation capture assay
+|MARGI|assay
